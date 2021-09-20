@@ -26,3 +26,6 @@
 
 ## Activity Diagrams
 ### Activity Diagram for FightForFitness App
+
+<img width="808" alt="Screen Shot 2021-09-20 at 3 53 08 PM" src="https://user-images.githubusercontent.com/43696323/134080984-99612c38-ce3c-405a-aeb8-d7eedd7904c2.png">
+
