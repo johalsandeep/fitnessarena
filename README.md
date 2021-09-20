@@ -14,4 +14,4 @@
 ###### I am going to be using a private repository in GitHub to track all of my changes and commits while I develop this app. I am currently in the inception phase. You can visit my miro site that is running live [here](https://miro.com/app/board/o9J_lwDvtnc=/).
 ## Inception Phase
 ###### I am currently in the inception phase.
-###### The Inception Phase provides an opportunity to do a "reality check" of the intended work, present the updated/confirmed ('adaptive' management) approach to project stakeholders, and request approval of the workplan and budget from the first Project Steering Committee.
+###### Current phase gives us a chance to do a reality check of the intended work . It helps to plan everything like resources and blueprints fro appliation.which further helps to do better at design and development stage.
