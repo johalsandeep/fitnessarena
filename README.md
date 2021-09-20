@@ -19,3 +19,4 @@
 ### Use Case for FightForFitness App
 ### Diagram 1
 <img width="772" alt="11" src="https://user-images.githubusercontent.com/43696323/134077599-52d33b97-5e5b-46ce-8ecd-5ce9e8c850a6.png">
+### Diagram 2
