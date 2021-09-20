@@ -17,3 +17,6 @@
 ###### Current phase gives us a chance to do a reality check of the intended work . It helps to plan everything like resources and blueprints for appliation.which further helps to do better at design and development stage.
 ## UML Diagrams
 ### Use Case for FightForFitness App
+### Diagram 1
+<img width="772" alt="11" src="https://user-images.githubusercontent.com/43696323/134078109-a8672e50-93b8-4cc4-b8ac-00847a64f326.png">
+### Diagram 2
