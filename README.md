@@ -1,4 +1,4 @@
-# fightforfitness
+# FightForFitness
 # Brainstorm of my App for Mobile Portfolio 1
 ## Author : Sandeep Singh
 ## Date : September  20th, 2021
