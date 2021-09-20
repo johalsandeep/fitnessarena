@@ -12,3 +12,6 @@
 ###### There are many ways to do exercise both at Gym and Home with or without equipment but we need a professional way to do these activities. This application is going be a convenient way for all of those who are committed to their fitness level and exercise on regular basis. This application will include exercise tutorials, details of required nutrition after workouts, weight loss and workout tips, and regular notifications. There would be forms for test of one's ability, capacity, stamina, or suitability so users can get their level of fitness. This application would get regular updates from admin side with latest and exciting features.
 ## Version Control
 ###### I am going to be using a private repository in GitHub to track all of my changes and commits while I develop this app. I am currently in the inception phase. You can visit my miro site that is running live [here](https://miro.com/app/board/o9J_lwDvtnc=/).
+## Inception Phase
+###### I am currently in the inception phase.
+###### The Inception Phase provides an opportunity to do a "reality check" of the intended work, present the updated/confirmed ('adaptive' management) approach to project stakeholders, and request approval of the workplan and budget from the first Project Steering Committee.
