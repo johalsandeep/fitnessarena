@@ -19,6 +19,6 @@
 ### Use Case for FightForFitness App
 ### Diagram 1
 <img width="772" alt="11" src="https://user-images.githubusercontent.com/43696323/134077599-52d33b97-5e5b-46ce-8ecd-5ce9e8c850a6.png">
-### Diagram 2
+### Diagram 2 
 <img width="770" alt="22" src="https://user-images.githubusercontent.com/43696323/134077667-fe266169-e77e-48a8-8b0f-29fe8d7ef29f.png">
 
