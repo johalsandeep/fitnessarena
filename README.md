@@ -25,3 +25,4 @@
 
 
 ## Activity Diagrams
+### Activity Diagram for FightForFitness App
