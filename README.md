@@ -18,14 +18,17 @@
 ## UML Diagrams
 ### Use Case for FightForFitness App
 ### Diagram 1
-<img width="772" alt="11" src="https://user-images.githubusercontent.com/43696323/134078109-a8672e50-93b8-4cc4-b8ac-00847a64f326.png">
+
+<img width="743" alt="f1" src="https://user-images.githubusercontent.com/43696323/134595587-4ee3bc2a-e916-4e40-85f0-37adc4df6a6b.png">
+
 
 ### Diagram 2
-<img width="770" alt="22" src="https://user-images.githubusercontent.com/43696323/134078239-6743c2cb-d274-4ec2-b6de-50a2c1fe16df.png">
+
+<img width="765" alt="f3" src="https://user-images.githubusercontent.com/43696323/134595607-4b23a623-557b-47b1-b289-28f43aaaf677.png">
 
 
 ## Activity Diagrams
 ### Activity Diagram for FightForFitness App
 
-<img width="808" alt="Screen Shot 2021-09-20 at 3 53 08 PM" src="https://user-images.githubusercontent.com/43696323/134080984-99612c38-ce3c-405a-aeb8-d7eedd7904c2.png">
+<img width="652" alt="f2" src="https://user-images.githubusercontent.com/43696323/134595631-3ffa320c-e294-4759-bb3a-1bfcc9741afe.png">
 
