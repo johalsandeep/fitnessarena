@@ -36,3 +36,11 @@
 
 ## Fitnessarena UI and UX
 
+### Screen 1
+
+<img width="452" alt="screen1" src="https://user-images.githubusercontent.com/43696323/138324169-fe63748a-07fa-4fad-80a0-a2aafdf37154.png">
+
+### Description:
+This is logo screen. On the UI screen we have added label showing the application name and two pictures showing the logo on the white background. After all the modification we have decided to design and add a wallpaper which shows all the components of the app as seen in the background. We also added a logo and label in the centre of the screen.
+
+
