@@ -1,8 +1,8 @@
-# FightForFitness
+# Fitnessarena
 # Brainstorm of my App for Mobile Portfolio 1
-## Author : Sandeep Singh
+## Author : Yellow Group
 ## Date : September  20th, 2021
-###### This is where all the planning and design for my future application in Mobile Portfolio 1 can be found.It includes all the required diagrams, a planning chart and a small but detailed introduction.
+###### This is where all the planning and design for our future application in Mobile Portfolio 1 can be found.It includes all the required diagrams, a planning chart and a small but detailed introduction.
 <img width="1023" alt="Finalgit" src="https://user-images.githubusercontent.com/43696323/134597034-a898d629-8688-46d3-97fb-e5f99d156f67.png">
 
 
@@ -17,7 +17,7 @@
 ###### I am currently in the inception phase.
 ###### Current phase gives us a chance to do a reality check of the intended work . It helps to plan everything like resources and blueprints for appliation.which further helps to do better at design and development stage.
 ## UML Diagrams
-### Use Case for FightForFitness App
+### Use Case for FightForFitness App (app name has changed to Fitnessarena after the selection as a group project)
 ### Diagram 1
 
 <img width="743" alt="f1" src="https://user-images.githubusercontent.com/43696323/134595587-4ee3bc2a-e916-4e40-85f0-37adc4df6a6b.png">
@@ -32,4 +32,6 @@
 ### Activity Diagram for FightForFitness App
 
 <img width="652" alt="f2" src="https://user-images.githubusercontent.com/43696323/134595631-3ffa320c-e294-4759-bb3a-1bfcc9741afe.png">
+
+## Fitnessarena UI and UX
 
