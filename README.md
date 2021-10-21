@@ -43,4 +43,71 @@
 ### Description:
 This is logo screen. On the UI screen we have added label showing the application name and two pictures showing the logo on the white background. After all the modification we have decided to design and add a wallpaper which shows all the components of the app as seen in the background. We also added a logo and label in the centre of the screen.
 
+### Screen 2
+
+<img width="452" alt="screen2" src="https://user-images.githubusercontent.com/43696323/138324553-6f72102f-d32d-4761-9907-884549b18ce6.png">
+
+
+### Description:
+
+This screen is designed to ask the user to login into their account. Asking them to enter username and password. We also added a button to reset password. If user is using our app for the time there are sign up options available for the user to either use Gmail, Facebook or twitter.
+
+### Screen 3
+
+<img width="452" alt="screen3" src="https://user-images.githubusercontent.com/43696323/138324777-1cc929fd-1c37-4619-952e-610a340d636e.png">
+
+### Description:
+
+This screen is used for 1st time users who want to register in the app. it asks user to enter their name, last name, mobile number, email, and password. We have added a button sign up which once tapped, users’ data is scored as well as activated.
+
+### Screen 4
+
+<img width="419" alt="screen4" src="https://user-images.githubusercontent.com/43696323/138324934-9ba1e6e0-bcb7-4a8e-9ad7-cda41e52ea65.png">
+
+### Description:
+Once the user is logged into his / her account, this is the main home screen which user notices. We have added back button on left top corner, which takes the user back to login screen once tapped. We have a profile button on the right top corner, which allows user to manage their personal date such as change password or update their mobile number. Lastly, we have added the name and logo of the application with list of activities available such as cardio, weights, nutrition, and sleep tracker.
+
+Apart from all the above we have added a custom button which once pressed allows user to store their personalised workouts.
+
+### Screen 5
+
+<img width="452" alt="screen5" src="https://user-images.githubusercontent.com/43696323/138325155-64518425-e694-4b34-92bf-82dbf6f94178.png">
+
+
+### Description:
+This screen tells for instance, if the users tap on cardio in the home page, this screen pop up showing all the available workouts available. We have added icon images besides the name to better showcase the way the exercise is done.
+
+Lastly, we have added back button on left top corner, which takes the user back to login screen once tapped. We have a profile button on the right top corner, which allows user to manage their personal date such as change password or update their mobile number.
+
+### Screen 6
+
+
+<img width="452" alt="screen6" src="https://user-images.githubusercontent.com/43696323/138325258-302fcb07-e67b-44e9-991a-0e7623c82ad2.png">
+
+
+### Description:
+For example, if the user taps on weights, this screen pops up showing the categories of human body. This enables the user to pick which major part of the body they want to work out on. Finally, we have added back button on left top corner, which takes the user back to login screen once tapped. We have a profile button on the right top corner, which allows user to manage their personal date such as change password or update their mobile number.
+
+### Screen 7-12
+
+![image](https://user-images.githubusercontent.com/43696323/138325377-bd1a4375-e6c8-4e84-9b80-afee95f662f9.png)
+
+![image](https://user-images.githubusercontent.com/43696323/138325403-f0d484f7-9867-439a-8060-c798377c4d86.png)
+
+![image](https://user-images.githubusercontent.com/43696323/138325426-b73be87f-2986-4737-8b2e-6954c9afe020.png)
+
+![image](https://user-images.githubusercontent.com/43696323/138325451-bf520267-a136-4b73-ab39-f51672bd62d5.png)
+
+![image](https://user-images.githubusercontent.com/43696323/138325479-9ac37be2-7e41-4f57-bd92-2d13e63d2055.png)
+
+![image](https://user-images.githubusercontent.com/43696323/138325500-b4a0a924-b347-4611-956f-22db58d80fee.png)
+
+
+### Description:
+All the six screens will maintain same design, while each screen shows its own category of exercises.
+We have added back button on left top corner, which takes the user back to login screen once tapped. We have a profile button on the right top corner, which allows user to manage their personal date such as change password or update their mobile number.
+
+Under the category name we have added a bar showing different types of equipment’s available. Users can tap on any of his / her choice and as a result we display relevant list of exercises according to users’ choice. 
+
+We have added next button to each exercise, which allows users to get into that particular exercise which user wants to workout.
 
