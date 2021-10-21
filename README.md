@@ -3,7 +3,8 @@
 ## Author : Yellow Group
 ## Date : September  20th, 2021
 ###### This is where all the planning and design for our future application in Mobile Portfolio 1 can be found.It includes all the required diagrams, a planning chart and a small but detailed introduction.
-<img width="1023" alt="Finalgit" src="https://user-images.githubusercontent.com/43696323/134597034-a898d629-8688-46d3-97fb-e5f99d156f67.png">
+
+<img width="882" alt="Screen Shot 2021-10-21 at 11 00 12 AM" src="https://user-images.githubusercontent.com/43696323/138323961-873b8dad-aa09-4ba3-8e9c-8f026dfde092.png">
 
 
 ## Introduction
