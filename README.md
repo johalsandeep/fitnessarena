@@ -1,4 +1,4 @@
-# Fitnessarena
+# FitnessArena
 # Brainstorm of my App for Mobile Portfolio 1
 ## Author : Yellow Group
 ## Date : September  20th, 2021
