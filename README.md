@@ -110,5 +110,5 @@ We have added back button on left top corner, which takes the user back to login
 
 Under the category name we have added a bar showing different types of equipment’s available. Users can tap on any of his / her choice and as a result we display relevant list of exercises according to users’ choice. 
 
-We have added next button to each exercise, which allows users to get into that particular exercise which user wants to workout.
+We have added next button to each exercise, which allows users to get into that particular exercise which user wants to workout .
 
