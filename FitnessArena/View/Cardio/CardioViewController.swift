@@ -13,7 +13,7 @@ class CardioViewController: UIViewController {
     
     
     var detailsname = ["""
-                       Exercise bikes and treadmills are both great for getting in shape. Generally speaking though, a workout on a treadmill can burn more calories and because you are usually moving your arms, you'll get more of an overall aerobic workout.
+                       Exercise of bikes and treadmills are both great for getting in shape. Generally speaking though, a workout on a treadmill can burn more calories and because you are usually moving your arms, you'll get more of an overall aerobic workout.
                        
                        Since exercise bikes are usually more fun than treadmills though, you are much more likely to stick with it in the long-term. This means that even though you can burn more calories on a treadmill, you are also more likely to stop using it altogether.
                        
