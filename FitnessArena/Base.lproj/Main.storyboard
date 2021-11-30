@@ -321,7 +321,7 @@
                                     <constraint firstAttribute="width" constant="75" id="SmR-Gl-NoO"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="rWR-W2-2z8"/>
                                 </connections>
@@ -454,7 +454,7 @@
                                     <constraint firstAttribute="width" constant="75" id="ggy-Va-g6I"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="NnZ-eG-LEN"/>
                                 </connections>
@@ -523,7 +523,7 @@
                                     <constraint firstAttribute="width" constant="75" id="gsA-yZ-1e9"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="3C8-dR-yjE"/>
                                 </connections>
@@ -582,18 +582,6 @@
                                 <buttonConfiguration key="configuration" style="plain" image="BackButton" title="Button"/>
                                 <connections>
                                     <segue destination="mJC-VB-dnu" kind="unwind" unwindAction="homeScreenSegueWithSegue:" id="CO1-gg-spD"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ItN-EB-fKh">
-                                <rect key="frame" x="324" y="0.0" width="75" height="60"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="75" id="bdY-LY-HDP"/>
-                                    <constraint firstAttribute="height" constant="60" id="fvD-RO-WCJ"/>
-                                </constraints>
-                                <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile" title="Button"/>
-                                <connections>
-                                    <segue destination="ieh-xl-CPJ" kind="show" id="FtM-96-pac"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vGH-hL-8Ko">
@@ -680,6 +668,18 @@
                                     <segue destination="fSM-J7-2fQ" kind="push" id="Kx1-WI-wsJ"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ItN-EB-fKh">
+                                <rect key="frame" x="328" y="0.0" width="75" height="60"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="bdY-LY-HDP"/>
+                                    <constraint firstAttribute="height" constant="60" id="fvD-RO-WCJ"/>
+                                </constraints>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
+                                <connections>
+                                    <segue destination="ieh-xl-CPJ" kind="show" id="FtM-96-pac"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Df8-ZG-g3V"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -741,18 +741,6 @@
                                     <segue destination="TMI-xb-32M" kind="show" id="UZB-jC-WY6"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xKD-uV-aad">
-                                <rect key="frame" x="324" y="0.0" width="75" height="60"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="75" id="Lsx-yb-sgA"/>
-                                    <constraint firstAttribute="height" constant="60" id="MaW-hj-9aM"/>
-                                </constraints>
-                                <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
-                                <connections>
-                                    <segue destination="ieh-xl-CPJ" kind="show" id="qWD-yw-KSP"/>
-                                </connections>
-                            </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Arms" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UX8-ny-NG7">
                                 <rect key="frame" x="120" y="50" width="174" height="40"/>
                                 <constraints>
@@ -805,6 +793,18 @@
                                     <outlet property="delegate" destination="F1H-Sh-jEL" id="YaL-T1-AaO"/>
                                 </connections>
                             </tableView>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xKD-uV-aad">
+                                <rect key="frame" x="339" y="-20" width="75" height="100"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="75" id="Lsx-yb-sgA"/>
+                                    <constraint firstAttribute="height" constant="60" id="MaW-hj-9aM"/>
+                                </constraints>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
+                                <connections>
+                                    <segue destination="ieh-xl-CPJ" kind="show" id="qWD-yw-KSP"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="qDV-Po-TvB"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -866,7 +866,7 @@
                                     <constraint firstAttribute="width" constant="75" id="ZB2-tR-HOc"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="RKw-zs-Pxe"/>
                                 </connections>
@@ -995,7 +995,7 @@
                                     <constraint firstAttribute="height" constant="60" id="wff-sA-MqU"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="M2M-YJ-GY5"/>
                                 </connections>
@@ -1060,7 +1060,7 @@
                                     <constraint firstAttribute="width" constant="75" id="UUz-cV-axt"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="GMa-Rp-CUf"/>
                                 </connections>
@@ -1189,7 +1189,7 @@
                                     <constraint firstAttribute="width" constant="75" id="unE-n6-UZs"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="eug-A3-UPI"/>
                                 </connections>
@@ -1254,7 +1254,7 @@
                                     <constraint firstAttribute="width" constant="75" id="ok9-29-L88"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="Nd1-zT-Cae"/>
                                 </connections>
@@ -1383,7 +1383,7 @@
                                     <constraint firstAttribute="height" constant="60" id="M6N-tE-q6q"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="HRu-pE-YIJ"/>
                                 </connections>
@@ -1448,7 +1448,7 @@
                                     <constraint firstAttribute="height" constant="60" id="xlO-vb-4Q5"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="aI1-vN-zH2"/>
                                 </connections>
@@ -1663,7 +1663,7 @@
                                     <constraint firstAttribute="width" constant="75" id="KzW-uP-aUq"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="b8l-FQ-9QD"/>
                                 </connections>
@@ -1771,7 +1771,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="a71-df-wYN">
-                                <rect key="frame" x="15" y="0.0" width="75" height="60"/>
+                                <rect key="frame" x="15" y="-20" width="75" height="60"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="Iih-YQ-xjM"/>
                                     <constraint firstAttribute="width" constant="75" id="i4g-V0-7VE"/>
@@ -1789,7 +1789,7 @@
                                     <constraint firstAttribute="height" constant="60" id="YsS-5k-bNh"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile" title=""/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="jl2-1F-EfN"/>
                                 </connections>
@@ -1865,7 +1865,7 @@
                                     <constraint firstAttribute="height" constant="60" id="g5y-eh-Tu3"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="910-Ou-M6q"/>
                                 </connections>
@@ -2000,7 +2000,7 @@
                                     <constraint firstAttribute="width" constant="75" id="mLJ-Cb-bgA"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="NfO-a6-vNX"/>
                                 </connections>
@@ -2111,7 +2111,7 @@
                                     <constraint firstAttribute="height" constant="60" id="zwd-B7-ZmJ"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="LhQ-5w-ze4"/>
                                 </connections>
@@ -2176,7 +2176,7 @@
                                     <constraint firstAttribute="width" constant="75" id="ycB-Kb-66V"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="1pl-ty-yST"/>
                                 </connections>
@@ -2263,7 +2263,7 @@
                                     <constraint firstAttribute="width" constant="75" id="mER-rs-PxS"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" image="Profile"/>
+                                <buttonConfiguration key="configuration" style="plain" image="home" title=" "/>
                                 <connections>
                                     <segue destination="ieh-xl-CPJ" kind="show" id="jl5-wx-ETA"/>
                                 </connections>
@@ -2449,6 +2449,10 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
+        <segue reference="wyk-iV-fu7"/>
+        <segue reference="LrY-j1-fIb"/>
+        <segue reference="Gyc-Tb-EgG"/>
+        <segue reference="mDx-rb-fJD"/>
         <segue reference="gFX-B4-l08"/>
         <segue reference="jum-zh-VPy"/>
         <segue reference="kW4-de-PXL"/>
@@ -2457,7 +2461,7 @@
         <segue reference="g5h-qE-gTS"/>
         <segue reference="UsQ-c5-L4G"/>
         <segue reference="IMl-N2-TwE"/>
-        <segue reference="1pv-KQ-Vdj"/>
+        <segue reference="yM8-f7-Yn4"/>
         <segue reference="VUA-9K-sRr"/>
         <segue reference="jl5-wx-ETA"/>
     </inferredMetricsTieBreakers>
@@ -2478,6 +2482,7 @@
         <image name="bg" width="500" height="500"/>
         <image name="five" width="64" height="64"/>
         <image name="four" width="64" height="64"/>
+        <image name="home" width="50" height="50"/>
         <image name="login logo" width="500" height="500"/>
         <image name="logo appicon" width="500" height="500"/>
         <image name="one" width="50" height="50"/>
