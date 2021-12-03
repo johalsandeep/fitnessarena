@@ -11,7 +11,6 @@ struct Constants {
     
     struct storyboard {
         
-        static let homeScreen = "HomeVC"
-      
+       static let homeScreen = "HomeVC"
     }
 }

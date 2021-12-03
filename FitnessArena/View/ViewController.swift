@@ -10,8 +10,6 @@ import FirebaseAuth
 class ViewController: UIViewController {
 
     
-   
-    
     @IBOutlet weak var emailTextField: UITextField!
     @IBOutlet weak var passwordTextField: UITextField!
     @IBOutlet weak var loginButton: UIButton!
@@ -22,6 +20,18 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
     }
 
@@ -62,7 +72,4 @@ class ViewController: UIViewController {
     
     
 }
-
-
-
 

@@ -17,8 +17,4 @@ class HomeScreen: UIViewController{
     }
     
     
-    @IBAction func homeScreenSegue(segue: UIStoryboardSegue) {
-        
-    }
-  
 }
